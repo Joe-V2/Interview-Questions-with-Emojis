@@ -1,0 +1,3 @@
+﻿  LeapYear.cpp
+C:\Users\Joe\source\repos\Interview Questions with Emojis\LeapYear\LeapYear.cpp(18,2): warning C4145:  '||': relational expression as switch expression; possible confusion with '|'
+  LeapYear.vcxproj -> C:\Users\Joe\source\repos\Interview Questions with Emojis\Debug\LeapYear.exe

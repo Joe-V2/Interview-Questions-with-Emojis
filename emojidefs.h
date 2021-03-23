@@ -11,3 +11,7 @@
 #define 👍 true
 #define 👎 false
 #define 🌍 main
+#define 🅰 char
+#define 🛑 break
+#define 📧 std::string
+#define 🦆 float
