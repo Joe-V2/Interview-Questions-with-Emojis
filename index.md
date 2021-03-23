@@ -16,8 +16,8 @@ Say we have an integer, with a maximum capacity for 32 bits. We could loop over 
     int bitCount = 0;  
     for (int i = 0; i < 32; ++i  
     {  
-    bitCount += (num & 1);  
-    num >> 1;  
+      bitCount += (num & 1);  
+      num >> 1;  
     }  
     return bitCount;  
   }
